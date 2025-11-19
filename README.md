@@ -17,6 +17,7 @@ This project focuses on predicting diabetes based on patient health data. Using 
 ├── Dockerfile                    # Docker configuration
 ├── Pipfile                       # Pipenv dependencies
 ├── Pipfile.lock                  # Locked Pipenv dependencies
+├── notebook.ipynb                # Diabetes Prediction Model Development
 └── README.md                     # Project documentation
 ```
 
